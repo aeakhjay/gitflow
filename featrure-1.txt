@@ -3,3 +3,5 @@ feature1 added
  update 1 fix
  
  feature 2 added
+update 1 added to feature 2
+update 2 added to feature 2
